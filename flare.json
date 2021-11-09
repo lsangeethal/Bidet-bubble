@@ -1,0 +1,324 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Western Asia",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "", "size": 3938},
+      {"name": "", "size": 3812},
+      {"name": "", "size": 6714},
+      {"name": "", "size": 743}
+     ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "", "size": 3534},
+      {"name": "", "size": 5731},
+      {"name": "", "size": 7840},
+      {"name": "", "size": 5914},
+      {"name": "", "size": 3416}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Eastern Asia",
+   "children": [
+    {"name": "", "size": 17010},
+    {"name": "", "size": 5842},
+    {
+     "name": "",
+     "children": [
+      {"name": "", "size": 1983},
+      {"name": "", "size": 2047},
+      {"name": "", "size": 1375},
+      {"name": "", "size": 8746},
+      {"name": "", "size": 2202},
+      {"name": "", "size": 1382},
+      {"name": "", "size": 1629},
+      {"name": "", "size": 1675},
+      {"name": "", "size": 2042}
+     ]
+    },
+    {"name": "", "size": 1041},
+    {"name": "", "size": 5176},
+    {"name": "", "size": 449},
+    {"name": "", "size": 5593},
+    {"name": "", "size": 5534},
+    {"name": "", "size": 9201},
+    {"name": "", "size": 19975},
+    {"name": "", "size": 1116},
+    {"name": "", "size": 6006}
+   ]
+  },
+  {
+   "name": "Southeastern Asia",
+   "children": [
+    {
+     "name": "converters",
+     "children": [
+      {"name": "", "size": 721},
+      {"name": "", "size": 4294},
+      {"name": "", "size": 9800},
+      {"name": "", "size": 1314},
+      {"name": "", "size": 2220}
+     ]
+    },
+    {"name": "", "size": 1759},
+    {"name": "", "size": 2165},
+    {"name": "", "size": 586},
+    {"name": "", "size": 3331},
+    {"name": "", "size": 772},
+    {"name": "", "size": 3322}
+   ]
+  },
+  {
+   "name": "Southern Latin America",
+   "children": [
+    {"name": "", "size": 8833},
+    {"name": "", "size": 1732},
+    {"name": "", "size": 3623},
+    {"name": "", "size": 10066}
+   ]
+  },
+  {
+   "name": "Western Europe",
+   "children": [
+    {"name": "", "size": 10000}
+   ]
+  },
+  {
+   "name": "Southern Europe",
+   "children": [
+    {"name": "", "size": 1082},
+    {"name": "", "size": 1336},
+    {"name": "", "size": 319},
+    {"name": "", "size": 10498},
+    {"name": "", "size": 2822},
+    {"name": "", "size": 9983},
+    {"name": "", "size": 2213},
+    {"name": "", "size": 1681}
+   ]
+  },
+  {
+   "name": "Western Africa",
+   "children": [
+
+    {
+
+    },
+
+    {"name": "", "size": 1124},
+    {"name": "", "size": 1876},
+    {"name": "", "size": 1101}
+   ]
+  },
+  {
+   "name": "Southern Asia",
+   "children": [
+    {"name": "", "size": 2105},
+    {"name": "", "size": 1316},
+    {"name": "", "size": 3151},
+    {"name": "", "size": 3770},
+    {"name": "", "size": 2435},
+    {"name": "", "size": 4839},
+    {"name": "", "size": 1756},
+    {"name": "", "size": 4268},
+    {"name": "", "size": 1821},
+    {"name": "", "size": 5833}
+   ]
+  },
+  {
+   "name": "Northeastern Africa",
+   "children": [
+    {"name": "", "size": 8258},
+    {"name": "HandHeld", "size": 10001},
+    {"name": "", "size": 8217},
+    {"name": "Electric", "size": 12555},
+    {"name": "", "size": 2324},
+    {"name": "", "size": 10993},
+    {
+     "name": "",
+     "children": [
+      {"name": "", "size": 9354},
+      {"name": "", "size": 1233}
+     ]
+    },
+    {"name": "", "size": 335},
+    {"name": "", "size": 383},
+    {"name": "", "size": 874},
+    {
+     "name": "Conventional",
+     "children": [
+      {"name": "", "size": 3165},
+      {"name": "", "size": 2815},
+      {"name": "", "size": 3366}
+     ]
+    },
+    {"name": "With Dryer", "size": 17705},
+    {"name": "With Music", "size": 1486},
+    {
+     "name": "With Lights",
+     "children": [
+      {"name": "", "size": 6367},
+      {"name": "", "size": 1229},
+      {"name": "", "size": 2059},
+      {"name": "", "size": 2291}
+     ]
+    },
+    {"name": "Portable", "size": 5559},
+    {"name": "Stand Alone", "size": 19118},
+    {"name": "", "size": 6887},
+    {"name": "Bidet Attachments", "size": 6557},
+    {"name": "Bidet Seat", "size": 22026}
+   ]
+  },
+  {
+   "name": "BIDET",
+   "children": [
+    {
+     "name": "Northern Latin America",
+     "children": [
+      {"name": "", "size": 1302},
+      {"name": "", "size": 24593},
+      {"name": "", "size": 652},
+      {"name": "", "size": 636},
+      {"name": "", "size": 6703}
+     ]
+    },
+    {
+     "name": "Canada",
+     "children": [
+      {"name": "", "size": 2138},
+      {"name": "", "size": 3824},
+      {"name": "", "size": 1353},
+      {"name": "", "size": 4665},
+      {"name": "", "size": 2649},
+      {"name": "", "size": 2832},
+      {"name": "", "size": 4896},
+      {"name": "", "size": 763},
+      {"name": "", "size": 5222},
+      {"name": "", "size": 7862},
+      {"name": "", "size": 8435}
+     ]
+    },
+    {
+     "name": "USA",
+     "children": [
+      {"name": "", "size": 20544},
+      {"name": "", "size": 19788},
+      {"name": "", "size": 10349},
+      {"name": "", "size": 3301},
+      {"name": "", "size": 19382},
+      {
+       "name": "",
+       "children": [
+        {"name": "", "size": 698},
+        {"name": "", "size": 5569},
+        {"name": "", "size": 353},
+        {"name": "", "size": 2247}
+       ]
+      },
+      {"name": "", "size": 11275},
+      {"name": "", "size": 7147},
+      {"name": "", "size": 9930}
+     ]
+    },
+    {
+     "name": "Norway & Finland",
+     "children": [
+      {"name": "", "size": 2313},
+      {"name": "", "size": 1880},
+      {"name": "", "size": 1701},
+      {"name": "", "size": 1117}
+     ]
+    },
+    {
+     "name": "South Africa",
+     "children": [
+      {"name": "Legend", "size": 20859},
+      {"name": "LegendItem", "size": 4614},
+      {"name": "LegendRange", "size": 10530}
+     ]
+    },
+    {
+     "name": "TOILET PAPER",
+     "children": [
+      {
+       "name": "USA",
+       "children": [
+        {"name": "South Central USA", "size": 4461},
+        {"name": "Central", "size": 6314},
+        {"name": "Western South America", "size": 3444}
+       ]
+      },
+      {
+       "name": "Africa",
+       "children": [
+        {"name": "Southern Africa", "size": 3179},
+        {"name": "West Central Tropical Africa", "size": 4060},
+        {"name": "West Tropica Africa", "size": 4138},
+        {"name": "South Tropical Africa", "size": 1690},
+        {"name": "East Tropical Africa", "size": 1830}
+       ]
+      },
+      {
+       "name": "Mexico",
+       "children": [
+        {"name": "", "size": 5219},
+        {"name": "", "size": 3165},
+        {"name": "", "size": 3509}
+       ]
+      },
+      {},
+      {
+       "name": "Asia",
+       "children": [
+        {"name": "Western Asia", "size": 9956},
+        {"name": "Indian Subcontinent", "size": 3899},
+        {"name": "Northern China", "size": 3202},
+          {"name": "Northern China", "size": 3204}
+       ]
+      },
+      {
+       "name": "WATER SCARCITY",
+       "children": [
+        {"name": "BIDET", "size": 100000},
+        {"name": "", "size": 3727},
+        {"name": "hand held", "size": 9317},
+        {"name": "electric", "size": 12003},
+        {"name": "", "size": 4853},
+        {"name": "", "size": 8411},
+        {"name": "Portable", "size": 4864},
+        {"name": "with Music", "size": 3174},
+        {"name": "with Light", "size": 7881},
+        {"name": "With Dryer", "size": 12870},
+        {"name": "standalone", "size": 2728},
+        {"name": "bidet seat", "size": 12348},
+        {"name": "", "size": 870},
+        {"name": "conventional", "size": 9121},
+        {"name": "attachment", "size": 9191}
+       ]
+      },
+      {},
+      {"name": "", "size": 5248},
+      {"name": "", "size": 4190},
+      {"name": "", "size": 2581},
+      {"name": "", "size": 2023}
+     ]
+    },
+    {"name": "France", "size": 16540}
+   ]
+  }
+ ]
+}
